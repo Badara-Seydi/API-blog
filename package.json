@@ -1,0 +1,30 @@
+{
+  "name": "SpeData-Oblog",
+  "version": "1.0.0",
+  "description": "Les étudiants React vont bientôt coder un petit appli de blog qui consomme une API simpliste (vous me direz, c'est pas très important, ils se concentrent sur le front). Du coup, on pourrait peut-être reprendre le concept mais l'étendre grâce aux super-pouvoirs d'Express et Postgres, non ? C'est beau de collaborer entre spés, vous trouvez pas ?",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Tardis/SpeData-E06-Atelier-Oblog-yannOclock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Tardis/SpeData-E06-Atelier-Oblog-yannOclock/issues"
+  },
+  "homepage": "https://github.com/O-clock-Tardis/SpeData-E06-Atelier-Oblog-yannOclock#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-swagger-generator": "^1.1.17",
+    "joi": "^17.4.1",
+    "pg": "^8.6.0"
+  }
+}
