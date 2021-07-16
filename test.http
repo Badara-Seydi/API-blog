@@ -1,0 +1,8 @@
+### Test de 404
+GET http://localhost:3000/sqdsqd
+
+### Récuparation de la liste des catégories
+GET http://localhost:3000/categories
+
+### Récuparation de la liste des posts
+GET http://localhost:3000/posts
