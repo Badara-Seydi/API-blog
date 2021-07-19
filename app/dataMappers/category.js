@@ -1,5 +1,5 @@
 /*
-Dans un dataMapper on veut récupérer des données qui proviennt d'un source de données. On appelle cela un accesseur de données. OnLes données peuvenet provenir d'une BDD (de n'importe quel type) ou de toute autre source, comme par exemple un fichier JSON ou une autre API (mais ca on verra plus tard)
+Dans un dataMapper on veut récupérer des données qui proviennent d'un source de données. On appelle cela un accesseur de données. OnLes données peuvenet provenir d'une BDD (de n'importe quel type) ou de toute autre source, comme par exemple un fichier JSON ou une autre API (mais ca on verra plus tard)
 */
 // Un dataMapper est avant tout un design pattern
 
